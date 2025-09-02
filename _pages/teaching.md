@@ -5,75 +5,32 @@ layout: single
 author_profile: true
 ---
 
+## Fall 2025
+
+* CS 430/CS 530 Artificial Intelligence \& Machine Learning
+
 ## Spring 2025
 
-* Intensive introduction to computing (CS 517, Graduate)
+* CS 637 Graduate Deep Learning
 
 ## Fall 2024
 
-* Intensive introduction to programming (CS 521, Graduate)
-
-## Summer 2024
-
-* Intensive introduction to programming (CS 521, Graduate)
+* CS 317 Design and Analysis of Algorithms
+* 2024 CS 488/588 Intro to Big Data Computing
 
 ## Spring 2024
 
-* Intensive introduction to computing (CS 517, Graduate)
+* CS 637 Graduate Deep Learning
+* CS 430/CS 530 Survey of Artificial Intelligence
 
 ## Fall 2023
 
-* Intensive introduction to programming (CS 521, Graduate)
+* CS 430/CS 530 Survey of Artificial Intelligence
 
 ## Spring 2023
 
-* Introduction to malware analysis (Graduate)
+* CS 430/CS 530 Survey of Artificial Intelligence
 
 ## Fall 2022
 
-* Introduction to computer security (CS 585, Graduate)
-
-
-## Summer 2022
-
-* Hacking for defense (Graduate course)
-
-## Spring 2022
-
-* Advanced deep Learning Seminar (Graduate)
-* Mobile Digital Forensics (CS 580, Graduate, Senior UG)
-* Network Security (CS 565, Graduate, Senior UG)
-
-## Fall 2021
-
-* Mobile Digital Forensics (CS 580, Graduate, Senior UG)
-* Network Security (CS 565, Graduate, Senior UG)
-
-## Spring 2021
-
-* Advanced Computer Networks (Graduate)
-* Network Security (CS 565, Graduate, Senior UG)
-
-## Fall 2020
-
-* Mobile Digital Forensics (CS 580, Graduate, Senior UG)
-* Network Security (CS 565, Graduate, Senior UG)
-
-## Spring 2020
-
-* Introduction to Quantum Computing and Applications (Graduate)
-* Network Security (CS 565, Graduate, Senior UG)
-
-## Fall 2019
-
-* Mobile Digital Forensics (CS 580, Graduate, Senior UG)
-* Network Security (CS 565, Graduate, Senior UG)
-* Special topics on Malware Analysis (Research Seminar)
-
-## Spring 2019
-
-* Network Security (CS 565, Graduate, Senior UG)
-
-## Fall 2018
-
-* Network Security (CS 565, Graduate, Senior UG)
+* CS 317 Design and Analysis of Algorithms
