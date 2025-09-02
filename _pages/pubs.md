@@ -11,7 +11,7 @@ author_profile: true
 
 * **Chaity Banerjee**, Tharun Kumar Doppalapudi, Eduardo Pasiliao Jr., {\bf Tathagata Mukherjee} "Camera Identification Using Image Based Deep Feature Signatures" *In IEEE Journal of Big Data Mining & Analytics, Volume 5, Number 3, Pages: 206-227, Year 2022 (Impact Factor 7)*
 
-* Muthukumaran Ramaburamanian, **Chaity Banerjee**, Debashri Roy, Eduardo Pasiliao Jr.,  **Tathagata Mukherjee** "Exploiting Spatio-Temporal Properties of I/Q Signal Data using 3D Convolution for RF Transmitter Identification" *In IEEE Journal of Radio Frequency Identification, Volume 5, Number 2, Pages: 113-127, Year 2021*
+* Muthukumaran Ramaburamanian, **Chaity Banerjee**, Debashri Roy, Eduardo Pasiliao Jr., Tathagata Mukherjee "Exploiting Spatio-Temporal Properties of I/Q Signal Data using 3D Convolution for RF Transmitter Identification" *In IEEE Journal of Radio Frequency Identification, Volume 5, Number 2, Pages: 113-127, Year 2021*
 
 * **Chaity Banerjee**, Tathagata Mukherjee, Eduardo Pasiliao Jr. "Feature Representations using the Reflected ReLU Activation" *In IEEE Journal of Big Data Mining & Analytics, Volume 3, Number 2, Year 2020 (Impact factor 7)*
 
@@ -59,3 +59,9 @@ author_profile: true
 ## Patents
 
 1. Method for Identification of Impervious Surfaces from Satellite Imaging (Patent application under preparation)
+
+## Talks
+
+* Invited Speaker at Taylor Symposium 2022, Florida State University, Tallahassee, Florida
+
+* Invited Speaker at International Symposium on Biomedical Engineering and Computational Biology 2022, China
