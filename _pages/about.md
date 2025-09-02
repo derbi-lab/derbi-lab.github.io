@@ -23,7 +23,13 @@ and Data Science with applications to image processing especially in the biology
 
 ## Research
 <div style="text-align: justify;">
-
+I am interested in applying AI and machine learning techniques for inference with images. I have worked extensively with images
+in biology for the tasks of segmentation of macromolecular structures from electron tomographic and electron microscopic images.
+More recently, I have started working with satellite imagery with focus on remote sensing applications like tracking land cover
+changes, identification of impervious surfaces etc. I am also interested in design of novel deep learning architectures. I have 
+worked extensively on design of novel activation functions and pre-processing techniques for efficient inference. My work in this
+area has addressed problems in low power regimen like inference in radio frequency domain which are often done in hardware limited
+platforms. My work has been funded by the US Air Force Research Laboratory and has applications in defence related areas. 
 </div>
 
 ## Professional Memberships
