@@ -7,16 +7,17 @@ author_profile: true
 
 ## Current Ph.D. Students
 
-* Ms. Hera Siddiqui (Expected graduation Spring 2026)
+* Ms. Hera Siddiqui
 * Ms. Shania Shakri
-* Ms. Nikita Susan Joseph
 * Ms. Srivani Athmakur
+* Ms. Arjama Dutta
 
 ## Current MS Thesis Students
-I am currently not advising any MS thesis students. I am not looking for new MS thesis students at this time.
+I am currently not advising any MS thesis students.
 
 
-## Former MS Thesis Students
-* Ms. Pavani Suresh
-* Ms. Srivani Athmakur
-* Ms. Digya Acharya
+## Former Students
+* Ms. Pavani Suresh (MS Thesis)
+* Ms. Srivani Athmakur (MS Thesis)
+* Ms. Digya Acharya (MS Thesis)
+* Mr. Elijah Shannon (UG Thesis)
