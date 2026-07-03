@@ -9,8 +9,6 @@ redirect_from:
 ## Education
 * Ph.D. (Computer Science), Florida State University
 * M.S (Computer Science), Florida State University
-* M.S (Computer Applications), West Bengal University of Technology
-* B.S (Statistics), University of Kalyani
 
 ## Brief Biography
 <div style="text-align: justify;">
