@@ -11,6 +11,7 @@ author_profile: true
 * Ms. Shania Shakri
 * Ms. Srivani Athmakur
 * Ms. Arjama Dutta
+* Ms. Pushpita Pranjoli
 
 ## Current MS Thesis Students
 I am currently not advising any MS thesis students.
